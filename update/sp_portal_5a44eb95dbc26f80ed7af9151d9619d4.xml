@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal">
+    <sp_portal action="INSERT_OR_UPDATE">
+        <css_variables/>
+        <default>false</default>
+        <homepage display_value="academy_homepage">032f9bdddb826f80ed7af9151d961930</homepage>
+        <icon/>
+        <kb_knowledge_base/>
+        <kb_knowledge_page/>
+        <login_page/>
+        <logo/>
+        <notfound_page/>
+        <quick_start_config/>
+        <sc_catalog/>
+        <sc_catalog_page/>
+        <sc_category_page/>
+        <sp_chat_queue/>
+        <sp_rectangle_menu display_value="Academy Menu">87a56b19dbc26f80ed7af9151d96190d</sp_rectangle_menu>
+        <sqanda_knowledge_base/>
+        <sys_class_name>sp_portal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-27 18:32:44</sys_created_on>
+        <sys_id>5a44eb95dbc26f80ed7af9151d9619d4</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Academy Portal</sys_name>
+        <sys_package display_value="Allisa SP Training" source="x_snc_allisa_sp_tr">fc7cdb5ddb826f80ed7af9151d961906</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Allisa SP Training">fc7cdb5ddb826f80ed7af9151d961906</sys_scope>
+        <sys_update_name>sp_portal_5a44eb95dbc26f80ed7af9151d9619d4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-27 18:38:18</sys_updated_on>
+        <theme display_value="Academy Theme">92356fd5dbc26f80ed7af9151d9619fe</theme>
+        <title>Academy Portal</title>
+        <u_available_in_portal_picker>false</u_available_in_portal_picker>
+        <url_suffix>academy</url_suffix>
+    </sp_portal>
+    <sys_translated_text action="delete_multiple" query="documentkey=5a44eb95dbc26f80ed7af9151d9619d4"/>
+</record_update>

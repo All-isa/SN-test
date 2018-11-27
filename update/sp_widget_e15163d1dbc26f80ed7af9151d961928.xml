@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_widget">
+    <sp_widget action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <client_script><![CDATA[function() {
+  /* widget controller */
+  var c = this;
+	
+}]]></client_script>
+        <controller_as>c</controller_as>
+        <css/>
+        <data_table>sp_instance</data_table>
+        <demo_data/>
+        <description/>
+        <docs/>
+        <field_list/>
+        <has_preview>true</has_preview>
+        <id>academy_hello_world</id>
+        <internal>false</internal>
+        <link/>
+        <name>Academy Hello World</name>
+        <option_schema>[{"hint":"Insert greeting here","name":"greeting","section":"Data","label":"Greeting","type":"string"}]</option_schema>
+        <public>false</public>
+        <roles/>
+        <script><![CDATA[(function() {  /* populate the 'data' object */  /* e.g., data.table = $sp.getValue('table'); */})();]]></script>
+        <servicenow>false</servicenow>
+        <sys_class_name>sp_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-27 18:18:38</sys_created_on>
+        <sys_id>e15163d1dbc26f80ed7af9151d961928</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Academy Hello World</sys_name>
+        <sys_package display_value="Allisa SP Training" source="x_snc_allisa_sp_tr">fc7cdb5ddb826f80ed7af9151d961906</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Allisa SP Training">fc7cdb5ddb826f80ed7af9151d961906</sys_scope>
+        <sys_update_name>sp_widget_e15163d1dbc26f80ed7af9151d961928</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-27 18:29:04</sys_updated_on>
+        <template><![CDATA[<div>
+<h1>
+   {{ c.options.greeting }} World!
+  </h1>
+</div>]]></template>
+    </sp_widget>
+</record_update>

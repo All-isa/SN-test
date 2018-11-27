@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="idea" language="en" table="x_snc_allisa_sp_tr_idea">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>idea</label>
+            <language>en</language>
+            <name>x_snc_allisa_sp_tr_idea</name>
+            <plural>ideas</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-27 18:01:14</sys_created_on>
+            <sys_id>ea5ddf9ddb826f80ed7af9151d9619e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>idea</sys_name>
+            <sys_package display_value="Allisa SP Training" source="x_snc_allisa_sp_tr">fc7cdb5ddb826f80ed7af9151d961906</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Allisa SP Training">fc7cdb5ddb826f80ed7af9151d961906</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_allisa_sp_tr_idea__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-27 18:01:14</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
